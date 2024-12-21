@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'screen/home_section.dart';
 import 'screen/experience_section.dart';
-import 'screen/blog_section.dart';
+import 'screen/Blog/blog_section.dart';
 import 'screen/contact_section.dart';
 
 void main() {

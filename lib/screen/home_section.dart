@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:portofio/EffectandIcons/social_links.dart';
 import 'package:portofio/EffectandIcons/ParticleScreen.dart';
-import 'package:portofio/screen/blog_section.dart';
+import 'package:portofio/screen/Blog/blog_section.dart';
 import 'package:portofio/screen/contact_section.dart';
 import 'package:portofio/screen/experience_section.dart';
 
