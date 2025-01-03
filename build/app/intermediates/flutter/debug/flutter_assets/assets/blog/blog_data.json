@@ -1,0 +1,78 @@
+{
+    "Java": [
+      {
+        "title": "Java Naming Convention",
+        "date": "07/05/2023",
+        "image": "assets/images/java1.jpg",
+        "category": "Java Object Class",
+        "content": "Nội dung chi tiết của bài viết về Java Naming Convention..."
+      },
+      {
+        "title": "Java OOPs Concepts",
+        "date": "07/05/2023",
+        "image": "assets/images/java2.jpg",
+        "category": "Java Object Class",
+        "content": "Nội dung chi tiết của bài viết về Java OOPs Concepts..."
+      },
+      {
+        "title": "Java Switch",
+        "date": "07/05/2023",
+        "image": "assets/images/java3.jpg",
+        "category": "Control Statements",
+        "content": "Nội dung chi tiết của Java Switch..."
+      },
+      {
+        "title": "First Java Program | Hello World Example",
+        "date": "07/05/2023",
+        "image": "assets/images/java4.jpg",
+        "category": "Java Tutorial",
+        "content": "Nội dung chi tiết của bài viết về Java OOPs Concepts..."
+      },
+      {
+        "title": "History of Java",
+        "date": "07/05/2023",
+        "image": "assets/images/java5.jpg",
+        "category": "Java Tutorial",
+        "content": "Nội dung chi tiết của bài viết về Java OOPs Concepts..."
+      }
+
+    ],
+    "JavaScript": [
+      {
+        "title": "Async/await là gì? Async/await trong JavaScript",
+        "date": "05/06/2023",
+        "image": "assets/images/javas1.jpg",
+        "category": "JavaScript Async/await",
+        "content": "Nội dung chi tiết của bài viết về JavaScript Basics..."
+      },
+    {
+        "title": "Microtasks là gì? Microtasks trong JavaScript",
+        "date": "05/06/2023",
+        "image": "assets/images/javas2.jpg",
+        "category": "JavaScript Microtasks",
+        "content": "Nội dung chi tiết của bài viết về JavaScript Basics..."
+    },
+    {
+        "title": "Chuyển callback thành promise trong JavaScript",
+        "date": "05/06/2023",
+        "image": "assets/images/javas3.jpg",
+        "category": "JavaScript Tutorial",
+        "content": "Nội dung chi tiết của bài viết về JavaScript Basics..."
+    },
+    {
+        "title": "Các promise API trong JavaScript",
+        "date": "05/06/2023",
+        "image": "assets/images/javas4.jpg",
+        "category": "JavaScript API",
+        "content": "Nội dung chi tiết của bài viết về JavaScript Basics..."
+    },
+    {
+        "title": "Xử lý lỗi với promise trong JavaScript",
+        "date": "05/06/2023",
+        "image": "assets/images/javas5.jpg",
+        "category": "JavaScript Tutorial",
+        "content": "Nội dung chi tiết của bài viết về JavaScript Basics..."
+    }
+    ]
+  }
+  
