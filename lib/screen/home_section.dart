@@ -37,7 +37,7 @@ class HomeSection extends StatelessWidget {
                 ),
                 // Mô tả ngắn
                 Text(
-                  'Student, Developer & Gamer',
+                  'Studying at Ho Chi Minh City University of Technology',
                   style: TextStyle(
                     color: Colors.white70,
                     fontSize: 18,
